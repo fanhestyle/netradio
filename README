@@ -3,8 +3,10 @@
 online learning course 
 
 
-
 B站Linux C系统编程项目，网址 https://www.bilibili.com/video/BV18p4y167Md
+
+项目原理  
+[netraido.png](https://github.com/fanhestyle/netradio/blob/main/netraido.png)
 
 以前曾经看视频学习过Linux C编程（感谢李慧琴老师录制的优秀教学视频），最近学习golang之后想找一个练手的项目，因此决定使用golang实现一遍： 
 
